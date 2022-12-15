@@ -14,7 +14,7 @@ Datalatte offers market researchers insights and survey tools to help them verif
 Community Knowledge Graph (KG)
 ==============================
 
-datalatte's KG data model allows users to store and easily utilize their personal data. The graph-structured data model based on small Knowledge Graphs (KGs) offers a solution to the challenges of table-structured data sets, which are not easily comprehensible and require significant resources to gain insights. The KG data model consists of the following features:
+Datalatte's KG data model allows users to store and easily utilize their personal data. The graph-structured data model based on small Knowledge Graphs (KGs) offers a solution to the challenges of table-structured data sets, which are not easily comprehensible and require significant resources to gain insights. The KG data model consists of the following features:
 
 -Decentralized storage leveraging Filecoin & IPFS
 
@@ -27,20 +27,20 @@ Overall, the KG data model provides a solution for storing and utilizing persona
 Reputation tokenomics 
 ======================
 
-datalatte's Reputation tokens (XPs) incentivize user participation and provide rewards for contributions to the community. XPs are EIP1155 standard and earned through various actions within the datalatte ecosystem, such as providing data for surveys or participating in community events. They can be used for a variety of purposes within the platform, including accessing premium features and participating in governance decisions, soul-bounding reputation to datalatte's PFPs (dataBarista) and many other usecases and services only accessible by XPs. 
+Datalatte's Reputation tokens (XPs) incentivize user participation and provide rewards for contributions to the community. XPs are EIP1155 standard and earned through various actions within the Datalatte ecosystem, such as providing data for surveys or participating in community events. They can be used for a variety of purposes within the platform, including accessing premium features and participating in governance decisions, soul-bounding reputation to Datalatte's PFPs (dataBarista) and many other usecases and services only accessible by XPs. 
 
-Note that XPs are eligible to datalatte's native utility token airdrop when public launch occurs. 
+Note that XPs are eligible to Datalatte's native utility token airdrop when public launch occurs. 
 
 Project Layout
 --------------
 
-./solidity: the core implementation of the datalatte protocol, including the KG data model and XP token logic.
+./solidity: the core implementation of the Datalatte protocol, including the KG data model and XP token logic.
 
-./typescript: our NPM packages, which wrap the Solidity implementation and expose a JavaScript API for interacting with datalatte.
+./typescript: our NPM packages, which wrap the Solidity implementation and expose a JavaScript API for interacting with Datalatte.
 
-./swift: implementation of our Swift package, also wrapping the core Solidity implementation (via a C-compatible FFI), suitable for incorporating datalatte as an XCode dependency.
+./swift: implementation of our Swift package, also wrapping the core Solidity implementation (via a C-compatible FFI), suitable for incorporating Datalatte as an XCode dependency.
 
-./design: documents describing datalatte data structures and protocols in generalized terms.
+./design: documents describing Datalatte data structures and protocols in generalized terms.
 
 License
 -------
@@ -54,4 +54,4 @@ Apache-2.0:[  https://www.apache.org/licenses/license-2.0](https://www.apache.or
 About
 -----
 
-datalatte is a protocol for anonymizing, tokenizing, and monetizing data. Join us in building a web3 native community and discover the potential of your data!
+Datalatte is a protocol for anonymizing, tokenizing, and monetizing data. Join us in building a web3 native community and discover the potential of your data!
