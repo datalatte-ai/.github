@@ -1,4 +1,4 @@
-datalatte
+Datalatte
 =========
 <p align="center">
     <a href="https://discord.com/invite/saUmuZ3Rrw">
@@ -9,7 +9,7 @@ datalatte
             alt="follow on Twitter"></a>
 </p>
 
-datalatte enables people to anonymize, tokenize and monetize their data and provides market researchers with insights and survey tools to validate their product ideas with a web3 native community.
+Datalatte offers market researchers insights and survey tools to help them verify their product ideas with a web3 native community while enabling users to anonymize, tokenize, and monetize their data.
 
 Community Knowledge Graph (KG)
 ==============================
