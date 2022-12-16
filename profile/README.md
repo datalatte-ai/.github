@@ -34,7 +34,7 @@ Note that XPs are eligible to Datalatte's native utility token airdrop when publ
 Project Layout
 --------------
 
-> ./solidity: the core implementation of the Datalatte protocol, including the XP token logic.
+> ./Solidity: the core implementation of the Datalatte protocol, including the XP token logic.
 
 > ./JavaScript: our NPM packages, which wrap the Solidity implementation and expose a JavaScript API for interacting with Datalatte.
 
