@@ -1,5 +1,9 @@
-Datalatte
+[Datalatte](https://www.datalatte.com)
 =========
+
+<p align="center">
+    <img src="https://www.datalatte.com/imgs/datalatte.svg">
+</p>
 <p align="center">
     <a href="https://discord.com/invite/saUmuZ3Rrw">
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
