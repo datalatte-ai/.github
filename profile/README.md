@@ -17,7 +17,7 @@ Datalatte is a two-sided dApp that enables people to anonymize, tokenize, and mo
 
 The components building our MVD (Minimum Viable Decentralization) are:
 
-[dataNFT as a survey](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
+[dataNFT as a survey 🌊📚](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
 ==============================
 
 A python library wrapper repository of ocean protocol to publish a survey a dataNFT. 
