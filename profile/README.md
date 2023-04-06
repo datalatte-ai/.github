@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a>
     <a href="https://twitter.com/intent/follow?screen_name=datalatteAi">
-        <img src="https://img.shields.io/twitter/follow/DATALATTE_?style=social&logo=twitter"
+        <img src="https://img.shields.io/twitter/follow/datalatteAi?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
 
@@ -28,7 +28,7 @@ This repository includes documenation on different components for:
 - DataToken minting 
 - fixed-price listing 
 
-- Additional micro-services: 
+Additional micro-services: 
 - IPFS storage for surveyquestion.json and surveyresponse.json
 - surveyresponse.json auditor
 - survey response binder
@@ -40,7 +40,8 @@ This repository includes documenation on different components for:
 - Ocean smart contracts interaction: Ocean DataNFT Factory, Ocean DataToken Factory, On-chain Metadata Store
 - Stakeholders: Survey publisher, data owner, Datalatte
 - Functions: Initialization, User Responses
-- Additional services: Surveyresponse.json binder, survey response audit, Chainlink function oracle
+
+Additional services: Surveyresponse.json binder, survey response audit, Chainlink function oracle
 
 [ Public Survey SC + Bounty Pool 💰🏆 📝🔗](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
 ==============================
@@ -52,7 +53,7 @@ This repository includes documenation on different components for:
 
 - Stakeholders: Survey publisher, data owner, Datalatte
 - Added functions to Survey SC Functions: Initialization, Encryption & Timelock, Decryption & Publication
-- Additional services: Chainlink oracle
+Additional services: Chainlink oracle
 
 
 Project Layout
