@@ -13,27 +13,47 @@
             alt="follow on Twitter"></a>
 </p>
 
-Datalatte offers market researchers insights and survey tools to help them verify their product ideas with a web3 native community while enabling users to anonymize, tokenize, and monetize their data.
+Datalatte is a two-sided dApp that enables people to anonymize, tokenize, and monetize their data, while providing researchers and organizations with survey-based insights to develop and improve their products.
 
-[Community Knowledge Graph (KG)](https://github.com/datalatte-ai/Knowledge-graph-storage-on-filecoin)
+The components building our MVD (Minimum Viable Decentralization) are:
+
+[dataNFT as a survey](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
 ==============================
 
-Datalatte's KG data model allows users to store and easily utilize their personal data. The graph-structured data model based on small Knowledge Graphs (KGs) offers a solution to the challenges of table-structured data sets, which are not easily comprehensible and require significant resources to gain insights. The KG data model consists of the following features:
+A python library wrapper repository of ocean protocol to publish a survey a dataNFT. 
 
--Decentralized storage leveraging Filecoin & IPFS
+This repository includes documenation on different components for:
 
--Private KGs for different entities in the SMS stored on different nodes within the Filecoin network
+- Data NFT publishing on ocean market
+- DataToken minting 
+- fixed-price listing 
 
--Open-ended evolution by storing parent CIDs in each KG for access to previous versions
+- Additional micro-services: 
+- IPFS storage for surveyquestion.json and surveyresponse.json
+- surveyresponse.json auditor
+- survey response binder
 
-Overall, the KG data model provides a solution for storing and utilizing personal data in a decentralized and secure manner. It allows for easy access and understanding of the data through Natural Language Processing (NLP) queries and provides computational efficiency with privacy-preserving data pipelines.
 
-[Reputation tokenomics](https://github.com/datalatte-ai/EIP-1155-XP-Contract)
-======================
+[ Public Survey Smart Contract 📝🔗](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
+==============================
 
-Datalatte's Reputation tokens (XPs) incentivize user participation and provide rewards for contributions to the community. XPs are EIP1155 standard and earned through various actions within the Datalatte ecosystem, such as providing data for surveys or participating in community events. They can be used for a variety of purposes within the platform, including accessing premium features and participating in governance decisions, soul-bounding reputation to Datalatte's PFPs (dataBarista) and many other usecases and services only accessible by XPs. 
+- Ocean smart contracts interaction: Ocean DataNFT Factory, Ocean DataToken Factory, On-chain Metadata Store
+- Stakeholders: Survey publisher, data owner, Datalatte
+- Functions: Initialization, User Responses
+- Additional services: Surveyresponse.json binder, survey response audit, Chainlink function oracle
 
-Note that XPs are eligible to Datalatte's native utility token airdrop when public launch occurs. 
+[ Public Survey SC + Bounty Pool 💰🏆 📝🔗](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
+==============================
+
+- Functions: Initialization, Bounty Distribution
+
+[ Private Survey SC 🔒📈 💰🏆 📝🔗](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
+==============================
+
+- Stakeholders: Survey publisher, data owner, Datalatte
+- Added functions to Survey SC Functions: Initialization, Encryption & Timelock, Decryption & Publication
+- Additional services: Chainlink oracle
+
 
 Project Layout
 --------------
