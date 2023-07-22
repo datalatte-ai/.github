@@ -22,22 +22,6 @@ datalatte is a two-sided decentralized application (dApp) that bridges the gap b
 
 2. **Insight Buyers:** We enable buyers to publish surveys in a privacy-preserving way on a targeted audience and receive primary data. Additionally, buyers can access secondary data from the knowledge gained from previous surveys on the population, all while preserving the privacy of the data owners.
 
-## Our Vision
-We aim to radically alter the status quo by challenging and transforming existing structures. Our goal is to lay the groundwork for a transparent data economy where individuals have control over their data and the freedom to choose what to do with it.
-
-## Our Mission
-To close the economic gap by empowering all internet users to monetize their digital footprint on an anonymous, secure, and fair platform. At datalatte, we enable you to generate income while maintaining data sovereignty.
-
-## Our Values
-
-- **Community & Collaboration:** Community is the heartbeat of our success, and collaboration is the engine that powers it.
-- **Transparency & Integrity:** We operate with honesty and integrity, adhering to our moral beliefs even when no one is looking.
-- **Leadership & Innovation:** Innovation is in our DNA. We aim to shake up the status quo and constantly seek new ways to transform outdated structures.
-- **Equality & Equity:** We are committed to building a future where data is not exploited but recognized as the property of individuals.
-
-We're excited to have you join us in this journey of transforming data economy!
-
-
 Project Layout
 --------------
 
@@ -61,4 +45,17 @@ Apache-2.0:[  https://www.apache.org/licenses/license-2.0](https://www.apache.or
 About
 -----
 
-Datalatte is a protocol for anonymizing, tokenizing, and monetizing data. Join us in building a web3 native community and discover the potential of your data!
+## Our Vision
+We aim to radically alter the status quo by challenging and transforming existing structures. Our goal is to lay the groundwork for a transparent data economy where individuals have control over their data and the freedom to choose what to do with it.
+
+## Our Mission
+To close the economic gap by empowering all internet users to monetize their digital footprint on an anonymous, secure, and fair platform. At datalatte, we enable you to generate income while maintaining data sovereignty.
+
+## Our Values
+
+- **Community & Collaboration:** Community is the heartbeat of our success, and collaboration is the engine that powers it.
+- **Transparency & Integrity:** We operate with honesty and integrity, adhering to our moral beliefs even when no one is looking.
+- **Leadership & Innovation:** Innovation is in our DNA. We aim to shake up the status quo and constantly seek new ways to transform outdated structures.
+- **Equality & Equity:** We are committed to building a future where data is not exploited but recognized as the property of individuals.
+
+We're excited to have you join us in this journey of transforming data economy!
