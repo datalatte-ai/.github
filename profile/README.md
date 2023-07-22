@@ -13,9 +13,9 @@
             alt="follow on Twitter"></a>
 </p>
 
-# datalatte: Milk Your Data
+# datalatte: Empowering Data Owners, Enlightening Insight Buyers
 
-Datalatte is a two-sided decentralized application (dApp) that focuses on enabling people to anonymize, tokenize, and monetize their personal data. Our initial focus is on survey data.
+datalatte is a two-sided decentralized application (dApp) that bridges the gap between data owners and insight buyers. We empower individuals to anonymize, tokenize, and monetize their personal data, with an initial focus on survey data, while providing insight buyers a platform to acquire valuable, privacy-preserving data through targeted surveys and access to anonymized secondary data from past surveys.
 
 ## What We Do
 1. **Data Owners:** We provide tools to help individuals anonymize, tokenize, and monetize their personal data. You own your data; we simply provide the tools for you to take control of it.
