@@ -13,47 +13,29 @@
             alt="follow on Twitter"></a>
 </p>
 
-Datalatte is a two-sided dApp that enables people to anonymize, tokenize, and monetize their data, while providing researchers and organizations with survey-based insights to develop and improve their products.
+# datalatte: Milk Your Data
 
-The components building our MVD (Minimum Viable Decentralization) are:
+Datalatte is a two-sided decentralized application (dApp) that focuses on enabling people to anonymize, tokenize, and monetize their personal data. Our initial focus is on survey data.
 
-[dataNFT as a survey 🌊📚](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
-==============================
+## What We Do
+1. **Data Owners:** We provide tools to help individuals anonymize, tokenize, and monetize their personal data. You own your data; we simply provide the tools for you to take control of it.
 
-A python library wrapper repository of ocean protocol to publish a survey a dataNFT. 
+2. **Insight Buyers:** We enable buyers to publish surveys in a privacy-preserving way on a targeted audience and receive primary data. Additionally, buyers can access secondary data from the knowledge gained from previous surveys on the population, all while preserving the privacy of the data owners.
 
-This repository includes documenation on different components for:
+## Our Vision
+We aim to radically alter the status quo by challenging and transforming existing structures. Our goal is to lay the groundwork for a transparent data economy where individuals have control over their data and the freedom to choose what to do with it.
 
-- Data NFT publishing on ocean market
-- DataToken minting 
-- fixed-price listing 
+## Our Mission
+To close the economic gap by empowering all internet users to monetize their digital footprint on an anonymous, secure, and fair platform. At datalatte, we enable you to generate income while maintaining data sovereignty.
 
-Additional micro-services: 
-- IPFS storage for surveyquestion.json and surveyresponse.json
-- surveyresponse.json auditor
-- survey response binder
+## Our Values
 
+- **Community & Collaboration:** Community is the heartbeat of our success, and collaboration is the engine that powers it.
+- **Transparency & Integrity:** We operate with honesty and integrity, adhering to our moral beliefs even when no one is looking.
+- **Leadership & Innovation:** Innovation is in our DNA. We aim to shake up the status quo and constantly seek new ways to transform outdated structures.
+- **Equality & Equity:** We are committed to building a future where data is not exploited but recognized as the property of individuals.
 
-[ Public Survey Smart Contract 📝🔗](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
-==============================
-
-- Ocean smart contracts interaction: Ocean DataNFT Factory, Ocean DataToken Factory, On-chain Metadata Store
-- Stakeholders: Survey publisher, data owner, Datalatte
-- Functions: Initialization, User Responses
-
-Additional services: Surveyresponse.json binder, survey response audit, Chainlink function oracle
-
-[ Public Survey SC + Bounty Pool 💰🏆 📝🔗](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
-==============================
-
-- Functions: Initialization, Bounty Distribution
-
-[ Private Survey SC 🔒📈 💰🏆 📝🔗](https://github.com/datalatte-ai/ocean-wrapper-dataNFT-as-a-survey)
-==============================
-
-- Stakeholders: Survey publisher, data owner, Datalatte
-- Added functions to Survey SC Functions: Initialization, Encryption & Timelock, Decryption & Publication
-Additional services: Chainlink oracle
+We're excited to have you join us in this journey of transforming data economy!
 
 
 Project Layout
