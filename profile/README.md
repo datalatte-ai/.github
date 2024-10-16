@@ -1,61 +1,62 @@
 [Datalatte](https://www.datalatte.com)
-=========
+========
 
 <p align="center">
     <img src="https://www.datalatte.com/imgs/datalatte.svg">
 </p>
 <p align="center">
-    <a href="https://discord.com/invite/saUmuZ3Rrw">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
-            alt="chat on Discord"></a>
     <a href="https://twitter.com/intent/follow?screen_name=datalatteAi">
         <img src="https://img.shields.io/twitter/follow/datalatteAi?style=social&logo=twitter"
             alt="follow on Twitter"></a>
 </p>
 
-# datalatte: Empowering Data Owners, Enlightening Insight Buyers
+# Datalatte: Empowering Connections Through Personal Knowledge Graphs
 
-datalatte is a two-sided decentralized application (dApp) that bridges the gap between data owners and insight buyers. We empower individuals to anonymize, tokenize, and monetize their personal data, with an initial focus on survey data, while providing insight buyers a platform to acquire valuable, privacy-preserving data through targeted surveys and access to anonymized secondary data from past surveys.
+Datalatte is a decentralized application (dApp) that enhances human connections by leveraging self-sovereign personal knowledge graphs. We enable individuals to own and utilize their personal data to create meaningful connections, starting with professional networking at conferences and events.
 
 ## What We Do
-1. **Data Owners:** We provide tools to help individuals anonymize, tokenize, and monetize their personal data. You own your data; we simply provide the tools for you to take control of it.
 
-2. **Insight Buyers:** We enable buyers to publish surveys in a privacy-preserving way on a targeted audience and receive primary data. Additionally, buyers can access secondary data from the knowledge gained from previous surveys on the population, all while preserving the privacy of the data owners.
+1. **Personal Knowledge Graphs:** Build your own knowledge graph from your data, such as social media profiles. This graph encapsulates your interests, preferences, and goals—all privately owned by you.
 
-Project Layout
---------------
+2. **Facilitate Connections:** Use your knowledge graph to receive personalized networking recommendations at events, helping you connect with the most relevant people efficiently.
 
-> ./Solidity: the core implementation of the Datalatte protocol, including the XP token logic.
+3. **Automate Opportunities:** Our agents monitor your public posts to provide tailored contacts and opportunities for future events, ensuring you never miss key connections.
 
-> ./JavaScript: our NPM packages, which wrap the Solidity implementation and expose a JavaScript API for interacting with Datalatte.
+## How It Works
 
-> ./Vue: our client side framework that handles most of the work as our goal is to do everything on the client side. 
+- **Data Reclamation:** Reclaim your data from platforms like Twitter and LinkedIn to build your knowledge graph in seconds.
 
-> ./design: documents describing Datalatte data structures and protocols in generalized terms.
+- **Privacy and Ownership:** Your data is stored privately on our edge nodes via OriginTrail; you hold the keys.
 
-License
--------
+- **Enhanced Networking:** Receive a list of relevant people to connect with at events based on mutual interests and aligned intentions.
+
+
+## License
 
 This project is dual licensed under MIT and Apache-2.0.
 
-MIT:[  https://www.opensource.org/licenses/mit](https://www.opensource.org/licenses/mit)
+- MIT: [https://www.opensource.org/licenses/mit](https://www.opensource.org/licenses/mit)
 
-Apache-2.0:[  https://www.apache.org/licenses/license-2.0](https://www.apache.org/licenses/license-2.0)
+- Apache-2.0: [https://www.apache.org/licenses/license-2.0](https://www.apache.org/licenses/license-2.0)
 
-About
------
+## About
 
-## Our Vision
-We aim to radically alter the status quo by challenging and transforming existing structures. Our goal is to lay the groundwork for a transparent data economy where individuals have control over their data and the freedom to choose what to do with it.
+### Vision
 
-## Our Mission
-To close the economic gap by empowering all internet users to monetize their digital footprint on an anonymous, secure, and fair platform. At datalatte, we enable you to generate income while maintaining data sovereignty.
+Revolutionize how people connect by empowering individuals with ownership over their personal data and privacy.
 
-## Our Values
+### Mission
 
-- **Community & Collaboration:** Community is the heartbeat of our success, and collaboration is the engine that powers it.
-- **Transparency & Integrity:** We operate with honesty and integrity, adhering to our moral beliefs even when no one is looking.
-- **Leadership & Innovation:** Innovation is in our DNA. We aim to shake up the status quo and constantly seek new ways to transform outdated structures.
-- **Equality & Equity:** We are committed to building a future where data is not exploited but recognized as the property of individuals.
+Enable individuals to leverage their digital footprints to create meaningful connections while maintaining data sovereignty.
 
-We're excited to have you join us in this journey of transforming data economy!
+### Values
+
+- **Community & Collaboration**
+
+- **Transparency & Integrity**
+
+- **Innovation & Empowerment**
+
+- **Equality & Privacy**
+
+Join us on this journey to transform how we connect in the data economy!
