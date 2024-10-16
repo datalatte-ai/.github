@@ -10,7 +10,7 @@
             alt="follow on Twitter"></a>
 </p>
 
-# Datalatte: Empowering Connections Through Personal Knowledge Graphs
+# Datalatte: Private Human Connections with Self-sovereign Knowledge Graphs
 
 Datalatte is a decentralized application (dApp) that enhances human connections by leveraging self-sovereign personal knowledge graphs. We enable individuals to own and utilize their personal data to create meaningful connections, starting with professional networking at conferences and events.
 
